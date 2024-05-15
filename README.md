@@ -76,8 +76,6 @@ ep_robot.close()
 ```
 ## MobileRobot Movement Image:
 
-![robo](./img/robomaster.png)
-
 Insert image here
 ![image](https://github.com/Sharonsteffani2005/mobilerobot-openloopcontrol/assets/144979934/10b8c91f-c058-432f-86df-467795d5377b)
 
@@ -92,8 +90,4 @@ Upload your video in Youtube and paste your video-id here https://youtu.be/OH3qJ
 ## Result:
 Thus the python program code is developed to move the mobilerobot in the predefined path.
 
-```
-Mobile Robotics Laboratory
-Department of Artificial Intelligence and Data Science/ Machine Learning
-Saveetha Engineering College
-```
+
